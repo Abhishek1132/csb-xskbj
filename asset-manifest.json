@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://abhishek1132.github.io/csb-xskbj/static/css/main.120fb35c.chunk.css",
-    "main.js": "https://abhishek1132.github.io/csb-xskbj/static/js/main.2f7765b2.chunk.js",
-    "main.js.map": "https://abhishek1132.github.io/csb-xskbj/static/js/main.2f7765b2.chunk.js.map",
-    "runtime-main.js": "https://abhishek1132.github.io/csb-xskbj/static/js/runtime-main.973a1e97.js",
-    "runtime-main.js.map": "https://abhishek1132.github.io/csb-xskbj/static/js/runtime-main.973a1e97.js.map",
-    "static/js/2.49448de3.chunk.js": "https://abhishek1132.github.io/csb-xskbj/static/js/2.49448de3.chunk.js",
-    "static/js/2.49448de3.chunk.js.map": "https://abhishek1132.github.io/csb-xskbj/static/js/2.49448de3.chunk.js.map",
-    "index.html": "https://abhishek1132.github.io/csb-xskbj/index.html",
-    "static/css/main.120fb35c.chunk.css.map": "https://abhishek1132.github.io/csb-xskbj/static/css/main.120fb35c.chunk.css.map",
-    "static/js/2.49448de3.chunk.js.LICENSE.txt": "https://abhishek1132.github.io/csb-xskbj/static/js/2.49448de3.chunk.js.LICENSE.txt"
+    "main.css": "https://abhishek1132.github.io/radium_animations/static/css/main.120fb35c.chunk.css",
+    "main.js": "https://abhishek1132.github.io/radium_animations/static/js/main.2f7765b2.chunk.js",
+    "main.js.map": "https://abhishek1132.github.io/radium_animations/static/js/main.2f7765b2.chunk.js.map",
+    "runtime-main.js": "https://abhishek1132.github.io/radium_animations/static/js/runtime-main.973a1e97.js",
+    "runtime-main.js.map": "https://abhishek1132.github.io/radium_animations/static/js/runtime-main.973a1e97.js.map",
+    "static/js/2.49448de3.chunk.js": "https://abhishek1132.github.io/radium_animations/static/js/2.49448de3.chunk.js",
+    "static/js/2.49448de3.chunk.js.map": "https://abhishek1132.github.io/radium_animations/static/js/2.49448de3.chunk.js.map",
+    "index.html": "https://abhishek1132.github.io/radium_animations/index.html",
+    "static/css/main.120fb35c.chunk.css.map": "https://abhishek1132.github.io/radium_animations/static/css/main.120fb35c.chunk.css.map",
+    "static/js/2.49448de3.chunk.js.LICENSE.txt": "https://abhishek1132.github.io/radium_animations/static/js/2.49448de3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.973a1e97.js",
